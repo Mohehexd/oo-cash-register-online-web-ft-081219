@@ -11,7 +11,5 @@ class CashRegister
     @total += price 
   end 
   
-  def 
-  end 
   
 end 
