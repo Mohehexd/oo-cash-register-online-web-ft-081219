@@ -1,7 +1,7 @@
 class CashRegister
 
-def initialize(distance = 0)
+def initialize(discount = 0)
   @total = 0 
-  @distance = distance
+  @discount = discount
 end 
 end 
